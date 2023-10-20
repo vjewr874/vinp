@@ -1,0 +1,1 @@
+var cf_game_url = "ws://ws.mgl3.jxtju.com/ff_server/servicewebsocket";
